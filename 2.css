@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  text-align:center;
+}
+body{
+  background-color: ;
+}
+img{
+  width:150px;
+}
+div{
+  column-width:1000px;
+  color:white;
+}
+body{
+  background-color:#262729 ;
+}
+.Special{
+  background-color:limegreen;
+}
+.Sides{
+  background-color:limegreen;
+}
+.Drinks{
+  background-color:limegreen;
+}
+.Vegan{
+  border:dotted;
+  color:white;
+}
